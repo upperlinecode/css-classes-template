@@ -1,5 +1,7 @@
 # CSS Classes Template
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/css-classes-template)](https://repl.it/github/upperlinecode/css-classes-template)
+
 Clone this lab down, and follow along as you see a few different ways of styling multiple elements in similar ways.
 
 ## Part 1: IDs
